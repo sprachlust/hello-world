@@ -1,2 +1,4 @@
 # hello-world
-intro to GitHub
+I made this branch to learn how to use GitHub.
+
+
